@@ -7,3 +7,4 @@
 
 ## 보존된 푸치 프로필 목록
 * [Kaede](etc/puchi/Kaede)
+* [puchi](etc/puchi/puchi)
